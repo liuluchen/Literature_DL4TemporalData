@@ -22,24 +22,39 @@ Advanced Models for Long Sequences
 
 RNN-based Models
 -----------------------------------------
+pLSTM
+
 `Learning the joint representation of heterogeneous temporal events for clinical endpoint prediction
 <https://arxiv.org/abs/1803.04837>`_
     | :author:`Liu Luchen, Shen Jianhao, Zhang Ming, Wang Zichang, Tang Jian`
     | :venue:`AAAI 2018`
     | :keyword:`Endpoint prediciton, Sequential Data Modeling, Electronic Health Record`
     
-    
+ Herachical
+ 
+ Herachical ICLR19
 
 CNN-based Models
 -----------------------------------------
 
+CNN
+
+TCN
+ 
 Attention-based Models
 -----------------------------------------
 
+Transformer
+
+SanD
+
+XL-Transformer
 
 Sequence with Latent Graphs
 ============================
 
+NRI
 
+GCT
 
 
