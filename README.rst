@@ -22,15 +22,25 @@ Advanced Models for Long Sequences
 
 RNN-based Models
 -----------------------------------------
-pLSTM
 
+`Phased lstm: Accelerating recurrent network training for long or event-based sequences
+<https://papers.nips.cc/paper/6310-phased-lstm-accelerating-recurrent-network-training-for-long-or-event-based-sequences.pdf>`_
+    | :author:`Neil Daniel, Pfeiffer Michael, Liu Shih-Chii`
+    | :venue:`NIPS 2016`
+    | :keyword:`Long event-based sequences, Asychronized sparse asynchronous streams, Sparse updating`
+    
 `Learning the joint representation of heterogeneous temporal events for clinical endpoint prediction
 <https://arxiv.org/abs/1803.04837>`_
     | :author:`Liu Luchen, Shen Jianhao, Zhang Ming, Wang Zichang, Tang Jian`
     | :venue:`AAAI 2018`
     | :keyword:`Endpoint prediciton, Sequential Data Modeling, Electronic Health Record`
     
- Herachical
+`Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
+<https://arxiv.org/abs/1803.04837>`_
+    | :author:`Yikang Shen, Shawn Tan, Alessandro Sordoni, Aaron Courville`
+    | :venue:`ICLR 2019 (best paper)`
+    | :keyword:`NLP, Hidden hierarchically structured, Ordered neurons`
+    
  
  Herachical ICLR19
 
