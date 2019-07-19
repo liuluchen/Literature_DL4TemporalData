@@ -33,7 +33,7 @@ RNN-based Models
 <https://arxiv.org/abs/1803.04837>`_
     | :author:`Liu Luchen, Shen Jianhao, Zhang Ming, Wang Zichang, Tang Jian`
     | :venue:`AAAI 2018`
-    | :keyword:`Endpoint prediciton, Sequential Data Modeling, Electronic Health Record`
+    | :keyword:`Endpoint prediciton, Sequential Data Modeling, Heterogeneous Event LSTM`
     
 `Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
 <https://arxiv.org/abs/1810.09536>`_
@@ -47,7 +47,7 @@ Attention-based Models
 `Attention is all you need
 <http://papers.nips.cc/paper/7181-attention-is-all-you-need>`_
     | :author:`Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin`
-    | :venue:`NIPS 17`
+    | :venue:`NIPS 2017`
     | :keyword:`Machine translation, Self attention, Position Encoding`
    
 
@@ -74,7 +74,7 @@ Sequence with Latent Graphs
 `Neural Relational Inference for Interacting Systems
 <https://arxiv.org/abs/1802.04687>`_
     | :author:`Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel`
-    | :venue:`ICML 18`
+    | :venue:`ICML 2018`
     | :keyword:`Interacting systems, Neural relational inference, Variational auto-encoder`
    
 
