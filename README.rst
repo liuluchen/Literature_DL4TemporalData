@@ -36,35 +36,47 @@ RNN-based Models
     | :keyword:`Endpoint prediciton, Sequential Data Modeling, Electronic Health Record`
     
 `Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
-<https://arxiv.org/abs/1803.04837>`_
+<https://arxiv.org/abs/1810.09536>`_
     | :author:`Yikang Shen, Shawn Tan, Alessandro Sordoni, Aaron Courville`
     | :venue:`ICLR 2019 (best paper)`
     | :keyword:`NLP, Hidden hierarchically structured, Ordered neurons`
-    
- 
- Herachical ICLR19
+
+Attention-based Models
+-----------------------------------------
+
+`Attention is all you need
+<http://papers.nips.cc/paper/7181-attention-is-all-you-need>`_
+    | :author:`Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin`
+    | :venue:`NIPS 17`
+    | :keyword:`Machine translation, Self attention, Position Encoding`
+   
+
+`Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+<https://arxiv.org/abs/1901.02860>`_
+    | :author:`Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov`
+    | :venue:`Arxiv`
+    | :keyword:`Longer-term temporal dependency, Transformers`
 
 CNN-based Models
 -----------------------------------------
 
-CNN
+`An empirical evaluation of generic convolutional and recurrent networks for sequence modeling
+<https://arxiv.org/abs/1803.01271>`_
+    | :author:`Shaojie Bai, J. Zico Kolter, Vladlen Koltun`
+    | :venue:`Arxiv`
+    | :keyword:`NLP, Multivariate timeseries, Temporal Convolution Net`
+   
 
-TCN
- 
-Attention-based Models
------------------------------------------
-
-Transformer
-
-SanD
-
-XL-Transformer
 
 Sequence with Latent Graphs
 ============================
 
-NRI
+`Neural Relational Inference for Interacting Systems
+<https://arxiv.org/abs/1802.04687>`_
+    | :author:`Thomas Kipf, Ethan Fetaya, Kuan-Chieh Wang, Max Welling, Richard Zemel`
+    | :venue:`ICML 18`
+    | :keyword:`Interacting systems, Neural relational inference, Variational auto-encoder`
+   
 
-GCT
 
 
