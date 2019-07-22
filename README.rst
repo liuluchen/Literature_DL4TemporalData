@@ -54,7 +54,7 @@ Attention-based Models
 `Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 <https://arxiv.org/abs/1901.02860>`_
     | :author:`Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov`
-    | :venue:`Arxiv`
+    | :venue:`ACL 2019`
     | :keyword:`Longer-term temporal dependency, Transformers`
 
 CNN-based Models
